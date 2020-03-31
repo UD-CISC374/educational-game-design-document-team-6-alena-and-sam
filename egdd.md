@@ -4,7 +4,7 @@ EGDD
  
 ## Elevator Pitch
  
-An enterprising dragon takes advantage of the coronavirus lockdown to get a job in the city (over the internet, nobody knows you’re a dragon!) and accumulate wealth.
+An enterprising dragon gets a job in the city and uses the money to buy stocks and accumulate wealth.
  
 ## Influences (Brief)
  
@@ -29,10 +29,9 @@ An enterprising dragon takes advantage of the coronavirus lockdown to get a job 
 - Invest in 401K
 - Buy/Sell Stock
 - Buy frogs/frog supplies for frog hoard
-- Start businesses
-- Money laundering (this is a hidden game mechanic and not encouraged)
-- Do taxes (correctly or incorrectly - that’s up to you)
-- If the dragon launders money or evades taxes he gets audited by the IRS and put in federal prison
+- Start businesses (?)
+- Do taxes (?) (correctly or incorrectly - that’s up to you)
+- If the dragon evades taxes he gets audited by the IRS and put in federal prison
  
 # Learning Aspects
  
@@ -40,10 +39,11 @@ An enterprising dragon takes advantage of the coronavirus lockdown to get a job 
  
 Introductory economics
 Basics of budgeting
+Basics of investment
  
 ## Target Audiences
  
-Middle school students
+Middle school students (?)
  
 ## Target Contexts
 
@@ -53,7 +53,7 @@ This would be assigned as supplementary to a wealth management course.
  
 - By the end of the lesson, students will be able to list the benefits of a 401K plan
 - By the end of the lesson, players will be able to identify different types of stocks
-- By the end of the lesson, players will be able to file taxes
+- By the end of the lesson, players will be able to file taxes (?)
  
 ## Prerequisite Knowledge
  
@@ -169,7 +169,6 @@ The aesthetics should be cute and silly. The game should be the kind that doesn�
  
 - Characters List
   - Dragon: Needs a happy face, a neutral face, and a sad face that correspond to his happiness.
-  - Cardboard cutout of a person that the dragon puts in front of the webcam when on Zoom calls
   - Door to door stock salesmen
 - Textures:
   - *breathing fire*
